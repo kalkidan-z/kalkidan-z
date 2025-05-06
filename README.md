@@ -12,9 +12,7 @@
 
   ## 🏆 GitHub Trophies
   <div align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=kalkidan-z&theme=onedark&row=2&column=4" alt="kalkidan-z" />
-    </a>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalkidan-z" alt="kalkidan-z" /></a> </p>
   </div>
 
   ## 👨‍💻 About Me
@@ -87,7 +85,7 @@
 
   ## 🌟 Let's Connect
   <p align="left">
-  <a href="https://www.linkedin.com/in/kalkidan-zeleke-abc123/" target="blank">
+  <a href="https://www.linkedin.com/in/kalkidan-zeleke-a8932b33a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kalkidan Zeleke LinkedIn" height="30" width="40" />
   </a>
   </p>
